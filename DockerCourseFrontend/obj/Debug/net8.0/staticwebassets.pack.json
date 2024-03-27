@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rober\\Side projects\\DockerCourseFrontend\\DockerCourseFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DockerCourseFrontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DockerCourseFrontend.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rober\\Side projects\\DockerCourseFrontend\\DockerCourseFrontend\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\rober\\Side projects\\DockerCourseFrontend\\DockerCourseFrontend\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rober\\Side projects\\DockerCourseFrontend\\DockerCourseFrontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rober\\Side projects\\DockerCourseFrontend\\DockerCourseFrontend\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DockerCourseFrontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DockerCourseFrontend.props",
+      "PackagePath": "build\\DockerCourseFrontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DockerCourseFrontend.props",
+      "PackagePath": "buildMultiTargeting\\DockerCourseFrontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DockerCourseFrontend.props",
+      "PackagePath": "buildTransitive\\DockerCourseFrontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
